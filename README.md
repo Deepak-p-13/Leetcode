@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Deepak-p-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deepak-p-13/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Deepak-p-13/Leetcode/tree/master/2502-sort-the-people) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Deepak-p-13/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Deepak-p-13/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Deepak-p-13/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
