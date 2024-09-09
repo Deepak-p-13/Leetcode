@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepak-p-13/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Deepak-p-13/Leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Deepak-p-13/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Deepak-p-13/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepak-p-13/Leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Deepak-p-13/Leetcode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepak-p-13/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Deepak-p-13/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Deepak-p-13/Leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Deepak-p-13/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
