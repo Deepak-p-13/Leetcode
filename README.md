@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak-p-13/Leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Deepak-p-13/Leetcode/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Deepak-p-13/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0268-missing-number) |
 | [0807-custom-sort-string](https://github.com/Deepak-p-13/Leetcode/tree/master/0807-custom-sort-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Deepak-p-13/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
