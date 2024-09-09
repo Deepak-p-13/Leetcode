@@ -63,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Deepak-p-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Deepak-p-13/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Deepak-p-13/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
