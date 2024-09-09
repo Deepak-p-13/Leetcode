@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deepak-p-13/Leetcode/tree/master/0020-valid-parentheses) |
 | [0807-custom-sort-string](https://github.com/Deepak-p-13/Leetcode/tree/master/0807-custom-sort-string) |
 | [2502-sort-the-people](https://github.com/Deepak-p-13/Leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Deepak-p-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Deepak-p-13/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0390-elimination-game](https://github.com/Deepak-p-13/Leetcode/tree/master/0390-elimination-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deepak-p-13/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
