@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak-p-13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Deepak-p-13/Leetcode/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/Deepak-p-13/Leetcode/tree/master/0390-elimination-game) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepak-p-13/Leetcode/tree/master/0002-add-two-numbers) |
+| [0390-elimination-game](https://github.com/Deepak-p-13/Leetcode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
